@@ -1,10 +1,10 @@
 ### Hi there, I'm Aman Dwivedi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-dwivedi-b3b5841b0/)  
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://born69confused.github.io/MY-Site/index.html) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/born_69_confused/?hl=de) 
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@_confused)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-dwivedi-b3b5841b0/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://born69confused.github.io/MY-Site/index.html)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/born_69_confused/?hl=de)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@_confused)
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/channels/@me)
 
 
@@ -15,8 +15,6 @@
 I love solving problems and using Data Structure and Algorithms.
 Also, I love starting new Projects. 😛
 Currently, I'm working with javascript to develop Front as well as Backend websites.<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-[![JS](https://camo.githubusercontent.com/a622c2341a64050162e76db5745198c21748f7b1164417b0f4595505f2f404fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302532304a6176615363726970742d2532302532302532302532303638384c2d6631653035612e737667)]  
-  
 </div>
 
 <div>
