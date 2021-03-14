@@ -39,11 +39,7 @@ Currently, I'm working with javascript to develop Front as well as Backend websi
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=born69confused&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=born69confused&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=born69confused&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>-->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=born69confused&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 <div align="center">
   
