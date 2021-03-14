@@ -38,8 +38,7 @@ Currently, I'm working with javascript to develop Front as well as Backend websi
 📈 **My GitHub Stats:**
 
 
-[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=born69confused&theme=blue-green)](https://github.com/born69confused/github-readme-stats)
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=born69confused&theme=blue-green)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=born69confused&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /
 
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=born69confused&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <br>
