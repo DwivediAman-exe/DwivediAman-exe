@@ -11,21 +11,19 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=born69confused.born69confused)
 
 I love solving problems and using Data Structure and Algorithms.
+
 Currently, I'm working with javascript to develop Front as well as Backend websites.<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 Also, I love starting new Projects. 😛
-<img align="right" alt="working" src="https://user-images.githubusercontent.com/57112545/111080199-5fa60f00-8523-11eb-85ea-5262e89445b0.jpg" width="408" height="318" />
-
-
-
-
-
-
-
+<img align="right" alt="working" src="https://user-images.githubusercontent.com/57112545/111080199-5fa60f00-8523-11eb-85ea-5262e89445b0.jpg" width="408" height="400" />
 
 
 - 🚀 I’m currently learning Data Structures and Algorithms
+
 - 💻 I’m always working on something related to MERN
+
 - 📝 I write articles on medium when I'm free
+
 - 🤲 I'm looking to collaborate
+
 - 📫 How to reach me: 19dwivediaman@gmail.com
