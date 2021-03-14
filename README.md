@@ -11,7 +11,6 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=born69confused.born69confused)
 
 I love solving problems and using Data Structure and Algorithms.
-
 Currently, I'm working with javascript to develop Front as well as Backend websites.<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 Also, I love starting new Projects. 😛
