@@ -19,6 +19,7 @@ Currently, I'm working with javascript to develop Front as well as Backend websi
 
 <div>
 <img align="right" alt="working" src="https://user-images.githubusercontent.com/57112545/111080199-5fa60f00-8523-11eb-85ea-5262e89445b0.jpg" width="350" height="350" />
+
 **Talking about Personal Stuffs:**
 
 - 🚀 I’m currently learning Data Structures and Algorithms
@@ -35,7 +36,6 @@ Currently, I'm working with javascript to develop Front as well as Backend websi
 <br>
 
 📈 **My GitHub Stats:**
-
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=born69confused&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <br>
@@ -43,5 +43,7 @@ Currently, I'm working with javascript to develop Front as well as Backend websi
 </p>
 
 <div align="center">
+  
 ### Show some ❤️ by starring some of the repositories!
+
 </div>
