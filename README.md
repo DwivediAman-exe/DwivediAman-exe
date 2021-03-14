@@ -12,10 +12,16 @@
 
 I love solving problems and using Data Structure and Algorithms.
 
-Currently, I'm working with javascript <img src="https://img.icons8.com/color/48/000000/javascript.png"/> to develop Front as well as Backend websites.
+Currently, I'm working with javascript to develop Front as well as Backend websites.<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 Also, I love starting new Projects. 😛
 <img align="right" alt="working" src="https://user-images.githubusercontent.com/57112545/111080199-5fa60f00-8523-11eb-85ea-5262e89445b0.jpg" width="408" height="318" />
+
+
+
+
+
+
 
 
 
