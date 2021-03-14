@@ -10,13 +10,15 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=born69confused.born69confused)
 
-I love solving problems and using Data Structure and Algorithms.
 
-Also, I love starting new Projects. 😛
-
-Currently, I'm working with javascript to develop Front as well as Backend websites.<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <div>
-<img align="right" alt="working" src="https://user-images.githubusercontent.com/57112545/111080199-5fa60f00-8523-11eb-85ea-5262e89445b0.jpg" width="300" height="300" />
+I love solving problems and using Data Structure and Algorithms.
+Also, I love starting new Projects. 😛
+Currently, I'm working with javascript to develop Front as well as Backend websites.<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+</div>
+
+<div>
+<img align="right" alt="working" src="https://user-images.githubusercontent.com/57112545/111080199-5fa60f00-8523-11eb-85ea-5262e89445b0.jpg" width="350" height="350" />
 **Talking about Personal Stuffs:**
 
 - 🚀 I’m currently learning Data Structures and Algorithms
@@ -29,11 +31,14 @@ Currently, I'm working with javascript to develop Front as well as Backend websi
 
 - 📫 How to reach me: 19dwivediaman@gmail.com
 </div>
+<br>
+<br>
 
 📈 **My GitHub Stats:**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=born69confused&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=born69confused&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
