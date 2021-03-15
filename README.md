@@ -114,5 +114,6 @@
 <div align="center">
   
 ### Show some ❤️ by starring some of the repositories!
+### Drop a ⭐ if you like my profile and fork it!
 
 </div>
