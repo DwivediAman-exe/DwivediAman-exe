@@ -15,11 +15,11 @@
 <div>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-### I love solving problems and using Data Structure and Algorithms.
+### I love solving problems and using Data Structure and Algorithms. 
 
-### Also, I love starting new Projects. 😛
+### Also, I love starting new Projects. 
 
-### Currently, I'm working with javascript to develop Front as well as Backend websites.<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+### Currently, I'm working with javascript to develop Front as well as Backend websites.
 </div>
 
 <div>
