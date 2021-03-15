@@ -54,9 +54,6 @@ Currently, I'm working with javascript to develop Front as well as Backend websi
 ---
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 ---
