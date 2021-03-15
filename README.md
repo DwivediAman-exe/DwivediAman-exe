@@ -1,4 +1,4 @@
-### Hi there, I'm Aman Dwivedi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### (नमस्ते)Hi there, I'm Aman Dwivedi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-dwivedi-b3b5841b0/)
@@ -12,7 +12,7 @@
 
 
 <div>
-I love solving problems and using Data Structure and Algorithms.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I love solving problems and using Data Structure and Algorithms.
 Also, I love starting new Projects. 😛
 Currently, I'm working with javascript to develop Front as well as Backend websites.<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 </div>
