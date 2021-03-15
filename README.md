@@ -37,13 +37,18 @@ Currently, I'm working with javascript to develop Front as well as Backend websi
 <br>
 <br>
 
-![](https://komarev.com/ghpvc/?username=born69confused&color=blueviolet&style=plastic)
+![](https://komarev.com/ghpvc/?username=born69confused&color=blueviolet&style=flat)
 
-![](https://tokei.rs/b1/born69confused/project-jedi/jcl)
+---
 
 📈 **My GitHub Stats:**
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=born69confused&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=born69confused&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 
 <div align="center">
   
