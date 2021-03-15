@@ -38,9 +38,10 @@ Currently, I'm working with javascript to develop Front as well as Backend websi
 <br>
 
 ![](https://komarev.com/ghpvc/?username=born69confused&color=blueviolet&style=flat)
-![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions)
+![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=code)
 ![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=files)
-![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=lines)
+![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=blanks)
+![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=comments)
 
 ---
 
