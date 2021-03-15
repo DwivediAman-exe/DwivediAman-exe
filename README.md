@@ -37,6 +37,10 @@ Currently, I'm working with javascript to develop Front as well as Backend websi
 <br>
 <br>
 
+![](https://komarev.com/ghpvc/?username=born69confused&color=blueviolet&style=plastic)
+
+![](https://tokei.rs/b1/born69confused/project-jedi/jcl)
+
 📈 **My GitHub Stats:**
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=born69confused&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=born69confused&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
