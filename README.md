@@ -19,7 +19,7 @@
 
 ### Also, I love starting new Projects. 
 
-### Currently, I'm working with javascript to develop Front as well as Backend websites.
+### Currently, I'm working with javascript frameworks to develop Front and Backend of websites.
 </div>
 
 <div>
