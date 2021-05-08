@@ -113,7 +113,7 @@
 ---
 
 <!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@_confused/c712964e-151e-4774-ba6c-be035939958a.svg"></embed></figure>
+<img><embed src="https://wakatime.com/share/@_confused/c712964e-151e-4774-ba6c-be035939958a.svg"></embed></img>
 <!--END_SECTION:waka-->
 
 
