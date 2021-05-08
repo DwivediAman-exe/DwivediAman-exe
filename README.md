@@ -113,7 +113,7 @@
 ---
 
 <!--START_SECTION:waka-->
-<img src="https://wakatime.com/share/@_confused/9ddc343a-429e-4f13-b8d6-0348e67857f3.png" />
+<img src="https://wakatime.com/share/@_confused/9ddc343a-429e-4f13-b8d6-0348e67857f3.png" width="350" height="350"/>
 <!--END_SECTION:waka-->
 
 
