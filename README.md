@@ -110,11 +110,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=born69confused&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=born69confused&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
----
 
 <!--START_SECTION:waka-->
-<img src="https://wakatime.com/share/@_confused/9ddc343a-429e-4f13-b8d6-0348e67857f3.png" width="350" height="350"/>
+<img src="https://wakatime.com/share/@_confused/d59dd614-aff4-424f-9174-7fb4113f2300.png" width="350" height="350"/>
 <!--END_SECTION:waka-->
+
+---
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
