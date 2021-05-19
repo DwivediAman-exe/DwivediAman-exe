@@ -115,7 +115,8 @@
 <img src="https://wakatime.com/share/@_confused/d59dd614-aff4-424f-9174-7fb4113f2300.png" width="350" height="350"/>
 <!--END_SECTION:waka-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=born69confused&theme=vue)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=born69confused&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
