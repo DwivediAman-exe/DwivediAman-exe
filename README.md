@@ -115,6 +115,8 @@
 <img src="https://wakatime.com/share/@_confused/d59dd614-aff4-424f-9174-7fb4113f2300.png" width="350" height="350"/>
 <!--END_SECTION:waka-->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=born69confused&theme=vue)](https://git.io/streak-stats)
+
 ---
 
 
