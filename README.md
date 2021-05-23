@@ -43,8 +43,8 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=born69confused&color=blueviolet&style=flat)
-![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=code)
-![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=files)
+<!-- ![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=code)
+![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=files) -->
 
 ---
 
@@ -107,13 +107,11 @@
 📈 **My GitHub Stats:**
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=born69confused&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=born69confused&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=born69confused&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=born69confused&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=born69confused&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=born69confused&hide_border=true)](https://git.io/streak-stats) -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-195721%20lines%20of%20code-blue)
 
@@ -190,12 +188,6 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-<!-- 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=born69confused&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- -->
----
-
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
