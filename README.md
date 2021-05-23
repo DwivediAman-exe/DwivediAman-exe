@@ -9,7 +9,7 @@
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:19dwivediaman@gmail.com)
 
 
-## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=born69confused.born69confused) 
+## Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=born69confused&color=blueviolet&style=flat)
 
 
 <div>
@@ -42,7 +42,7 @@
 <br>
 <br>
 
-![](https://komarev.com/ghpvc/?username=born69confused&color=blueviolet&style=flat)
+
 <!-- ![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=code)
 ![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=files) -->
 
@@ -188,6 +188,8 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
