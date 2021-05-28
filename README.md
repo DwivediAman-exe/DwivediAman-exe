@@ -35,7 +35,9 @@
 
 - 📝 I write articles on medium when I'm free
 
-- 🤲 I'm looking to collaborate
+- 🤲 I'm looking to collaborate on Projects
+  
+- 😏 I'm interested in ML and ReactNative/Dart
 
 - 📫 How to reach me: 19dwivediaman@gmail.com
 </div>
