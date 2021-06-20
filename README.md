@@ -17,7 +17,7 @@
 
 ### I love solving problems and using Data Structure and Algorithms. 
 
-### Also, I love starting new Projects. 
+### Also, I love starting new Projects and try to finish them.
 
 ### Currently, I'm working with javascript frameworks to develop Front and Backend of websites.
 </div>
