@@ -189,6 +189,6 @@ C++                      1 repo              ░░░░░░░░░░░�
 <div align="center">
   
 ### Show some ❤️ by starring some of the repositories!
-### Drop a ⭐ if you like my profile and fork it!
+### Also drop a ⭐ if you like my profile!
 
 </div>
