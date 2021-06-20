@@ -1,4 +1,4 @@
-<h1> (नमस्ते) Hi there, I'm Aman Dwivedi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1> (नमस्ते) Hi there, I'm Aman Dwivedi <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h1>
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Dwivediaman/)
@@ -50,7 +50,7 @@
 
 ---
 
-## Tech Stacks
+## Tech Stacks 
 
 > Languages 
 <p>
