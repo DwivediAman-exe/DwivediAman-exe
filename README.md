@@ -1,6 +1,6 @@
 <h1> (नमस्ते) Hi there, I'm Aman Dwivedi <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h1>
 
-<img src="https://github.com/born69confused/born69confused/blob/main/image/github%20banner.jpg?raw=true">   
+<img src="https://github.com/born69confused/born69confused/blob/main/image/github%20banner1.jpg?raw=true" height="90%">   
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Dwivediaman/)
 [<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/13461811/confused)
