@@ -38,7 +38,9 @@
 
 - 🤲 I'm looking to collaborate on Projects
   
-- 😏 I'm interested in ML and ReactNative/Dart
+- 🤖 I'm planning to get my hands dirty in ML/AI
+  
+- 📱 I'm interested in Flutter/Dart
 
 - 📫 How to reach me: 19dwivediaman@gmail.com
 </div>
