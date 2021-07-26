@@ -47,6 +47,9 @@
 <br>
 <br>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patheticGeek&theme=github_dark" />
+</p>
 
 <!-- ![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=code)
 ![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=files) -->
