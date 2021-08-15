@@ -184,7 +184,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/born69confused/born69confused/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/08/2021
+ Last Updated on 15/08/2021
 <!--END_SECTION:waka-->
 
 ---
