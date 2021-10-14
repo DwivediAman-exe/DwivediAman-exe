@@ -160,10 +160,10 @@ Sunday       155 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      3 hrs 19 mins       █████████████████████████   100.0%
+C++                      5 hrs 6 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  3 hrs 19 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 6 mins        █████████████████████████   100.0%
 
 ```
 
@@ -184,7 +184,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/born69confused/born69confused/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/10/2021
+ Last Updated on 14/10/2021
 <!--END_SECTION:waka-->
 
 ---
