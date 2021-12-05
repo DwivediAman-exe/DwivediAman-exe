@@ -199,6 +199,6 @@ Python                   3 repos             █░░░░░░░░░░�
 <div align="center">
   
 ### Show some ❤️ by starring some of the repositories!
-### Also drop a ⭐ if you like my profile! <img src="https://github.com/born69confused/born69confused/blob/main/assests/salt.gif" height="30vw" width="55vw"/>
+### Also drop a ⭐ if you like my profile! <img src="https://github.com/born69confused/born69confused/blob/main/assests/salt.gif" height="50vw" width="55vw"/>
 
 </div>
