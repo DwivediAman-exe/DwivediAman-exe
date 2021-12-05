@@ -56,7 +56,7 @@
 
 ---
 
-## Tech Stacks 
+<img src="https://github.com/born69confused/born69confused/blob/main/assests/bmo.gif" width="55vw"/> ## Tech Stacks 
 
 > Languages 
 <p>
