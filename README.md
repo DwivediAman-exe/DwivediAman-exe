@@ -129,8 +129,6 @@
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=born69confused&hide_border=true)](https://git.io/streak-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-454%20hrs%209%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-220%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -187,7 +185,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/born69confused/born69confused/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/02/2022 01:14:08 UTC
+ Last Updated on 09/02/2022 01:15:20 UTC
 <!--END_SECTION:waka-->
 
 ---
