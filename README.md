@@ -129,6 +129,8 @@
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=born69confused&hide_border=true)](https://git.io/streak-stats) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2052%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-220%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -160,10 +162,10 @@ Sunday       152 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Text                     16 hrs 21 mins      █████████████████████████   100.0%
+Text                     21 hrs 27 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  16 hrs 21 mins      █████████████████████████   100.0%
+VS Code                  21 hrs 27 mins      █████████████████████████   100.0%
 
 ```
 
@@ -184,7 +186,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/born69confused/born69confused/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/02/2022 01:15:49 UTC
+ Last Updated on 17/02/2022 01:06:48 UTC
 <!--END_SECTION:waka-->
 
 ---
