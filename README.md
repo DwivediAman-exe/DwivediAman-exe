@@ -129,7 +129,7 @@
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=born69confused&hide_border=true)](https://git.io/streak-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-780%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-781%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-223%20Thousand%20lines%20of%20code-blue)
 
@@ -162,12 +162,12 @@ Sunday       75 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      7 hrs 9 mins        ███████████████████████░░   95.22% 
-Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52%
+C++                      8 hrs 10 mins       ███████████████████████░░   95.27% 
+Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.4% 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33%
 
 🔥 Editors: 
-VS Code                  7 hrs 31 mins       █████████████████████████   100.0%
+VS Code                  8 hrs 34 mins       █████████████████████████   100.0%
 
 ```
 
@@ -188,7 +188,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/born69confused/born69confused/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/06/2022 01:47:09 UTC
+ Last Updated on 05/06/2022 01:59:39 UTC
 <!--END_SECTION:waka-->
 
 ---
