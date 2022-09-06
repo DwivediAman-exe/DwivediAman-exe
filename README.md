@@ -129,9 +129,47 @@
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=born69confused&hide_border=true)](https://git.io/streak-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-853%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-327%20Thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    93 commits     █████░░░░░░░░░░░░░░░░░░░░   20.99% 
+🌆 Daytime    134 commits    ███████░░░░░░░░░░░░░░░░░░   30.25% 
+🌃 Evening    120 commits    ██████░░░░░░░░░░░░░░░░░░░   27.09% 
+🌙 Night      96 commits     █████░░░░░░░░░░░░░░░░░░░░   21.67%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       81 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.28% 
+Tuesday      59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.32% 
+Wednesday    62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
+Thursday     53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
+Friday       65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
+Saturday     52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
+Sunday       71 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.03%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Text                     3 hrs 29 mins       █████████████████████░░░░   87.2% 
+C++                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.56% 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24%
+
+🔥 Editors: 
+VS Code                  3 hrs 59 mins       █████████████████████████   100.0%
+
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -150,7 +188,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/born69confused/born69confused/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 02:31:50 UTC
+ Last Updated on 06/09/2022 02:34:19 UTC
 <!--END_SECTION:waka-->
 
 ---
