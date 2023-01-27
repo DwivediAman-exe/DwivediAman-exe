@@ -162,12 +162,10 @@ Sunday       40 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 min               ██████████████████░░░░░░░   74.74% 
-Git Config               0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.65% 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.6%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -188,7 +186,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/born69confused/born69confused/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/01/2023 01:31:16 UTC
+ Last Updated on 27/01/2023 01:33:39 UTC
 <!--END_SECTION:waka-->
 
 ---
