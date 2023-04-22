@@ -160,10 +160,10 @@ Sunday                   195 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -183,7 +183,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/born69confused/born69confused/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2023 01:18:27 UTC
+ Last Updated on 22/04/2023 01:19:53 UTC
 <!--END_SECTION:waka-->
 
 ---
