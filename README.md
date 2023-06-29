@@ -1,6 +1,6 @@
 <h1> (नमस्ते) Hi there, I'm Aman Dwivedi <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h1>
 
-<img src="https://github.com/born69confused/born69confused/blob/main/image/github%20banner1.jpg?raw=true">   
+<img src="https://github.com/DwivediAman-exe/DwivediAman-exe/blob/main/image/github%20banner1.jpg?raw=true">   
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Dwivediaman/)
 [<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/13461811/confused)
@@ -10,7 +10,7 @@
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:19dwivediaman@gmail.com)
 
 
-## Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=born69confused&color=blueviolet&style=flat)
+## Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=DwivediAman-exe&color=blueviolet&style=flat)
 
 
 <div>
@@ -48,15 +48,15 @@
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=born69confused&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DwivediAman-exe&theme=github_dark" />
 </p>
 
-<!-- ![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=code)
-![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=files) -->
+<!-- ![](https://tokei.rs/b1/github/DwivediAman-exe/LeetCode_Solutions?category=code)
+![](https://tokei.rs/b1/github/DwivediAman-exe/LeetCode_Solutions?category=files) -->
 
 ---
 
-## Tech Stacks <img src="https://github.com/born69confused/born69confused/blob/main/assests/bmo.gif" height="50vw" width="55vw"/>
+## Tech Stacks <img src="https://github.com/DwivediAman-exe/DwivediAman-exe/blob/main/assests/bmo.gif" height="50vw" width="55vw"/>
 
 > Languages 
 <p>
@@ -124,9 +124,9 @@
 📈 **My GitHub Stats:**
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=born69confused&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=born69confused&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DwivediAman-exe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwivediAman-exe&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=born69confused&hide_border=true)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DwivediAman-exe&hide_border=true)](https://git.io/streak-stats) -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs%2054%20mins-blue)
@@ -180,7 +180,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/born69confused/born69confused/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/DwivediAman-exe/DwivediAman-exe/main/assets/bar_graph.png)
 
 
  Last Updated on 29/06/2023 01:44:10 UTC
@@ -194,6 +194,6 @@ C++                      2 repos             █░░░░░░░░░░�
 <div align="center">
   
 ### Show some ❤️ by starring some of the repositories!
-### Also drop a ⭐ if you like my profile! <img src="https://github.com/born69confused/born69confused/blob/main/assests/salt.gif" height="50vw" width="55vw"/>
+### Also drop a ⭐ if you like my profile! <img src="https://github.com/DwivediAman-exe/DwivediAman-exe/blob/main/assests/salt.gif" height="50vw" width="55vw"/>
 
 </div>
