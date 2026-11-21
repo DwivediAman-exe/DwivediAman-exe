@@ -17,35 +17,36 @@
 
 <dl>
 <dt>Platform architecture</dt>
-<dd>Shaped the platform from the ground up across the interface, API layer and backend services: clean contracts between layers, shared patterns the whole team builds on, and the design documents behind them.</dd>
-<dt>Backend and services</dt>
-<dd>Built and hardened the Java and Spring services behind the platform: API contracts, authentication and permissions, bulk data ingestion with partial-failure handling, multi-site work orchestration and a self-hosted map server.</dd>
+<dd>Shaped the platform <strong>from the ground up</strong> across the interface, API layer and backend services, and set the standards the team builds by: shared patterns, design documents, code review and Git practice, mentoring and AI-assisted development.</dd>
+<dt>Backend and infrastructure</dt>
+<dd>Built and hardened the <strong>Java and Spring services</strong> behind the platform: API contracts, authentication and permissions, bulk data ingestion with partial-failure handling, multi-site work orchestration and a self-hosted map server. Shipped on Kubernetes with CI quality gates, automated releases and an event simulator for end-to-end testing.</dd>
 <dt>Applied AI</dt>
-<dd>Building AI decision support for operations teams, designed so every recommendation is grounded in live operational data and can be traced back to it.</dd>
+<dd>Building <strong>AI decision support</strong> for operations teams, designed so every recommendation is grounded in live operational data and can be traced back to it.</dd>
 <dt>Performance</dt>
-<dd>Brought page loads from 15 s down to about 1 s, then applied the same rigour to the backend: leaner search and count queries, static data separated from live data so only what changes is polled, and API responses 85% smaller.</dd>
-<dt>Infrastructure</dt>
-<dd>Containerised deployments on Kubernetes, CI quality gates, automated releases and an event simulator that drives end-to-end flows across services, with hands-on production debugging from logs down to the database.</dd>
-<dt>Engineering culture</dt>
-<dd>Set the team's code review and Git standards, review across the whole platform, mentor engineers, and lead the team's adoption of AI-assisted development.</dd>
+<dd>Brought page loads from <strong>15 s down to about 1 s</strong>, then applied the same rigour to the backend: leaner search and count queries, static data separated from live data so only what changes is polled, and <strong>API responses 85% smaller</strong>.</dd>
 </dl>
 
 ### Previously · NammaYatri (Juspay)
 
+<details>
+<summary>Job scheduling at 2M a day, a React Native migration, rider safety and more</summary>
+
 <dl>
 <dt>Distributed job scheduling</dt>
-<dd>Migrated the scheduler to Redis Streams with hybrid DB + Redis storage, 80 parallel channels and an automatic reviver. Up to 2M jobs a day across 61 job types with 70% lower latency, scaling from 3K to 200K daily rides with zero job loss.</dd>
+<dd>Migrated the scheduler to Redis Streams with hybrid DB + Redis storage, 80 parallel channels and an automatic reviver: <strong>up to 2M jobs a day</strong> across 61 job types with <strong>70% lower latency</strong>, scaling from 3K to 200K daily rides with zero job loss.</dd>
 <dt>Mobile platform migration</dt>
-<dd>Led five engineers moving a PureScript app to React Native with custom Java and Swift native modules: 2× faster builds, a 40% smaller bundle, and releases every few weeks instead of every few months.</dd>
+<dd>Led five engineers moving a PureScript app to React Native with custom Java and Swift native modules: <strong>2× faster builds</strong>, a <strong>40% smaller bundle</strong>, and releases every few weeks instead of every few months.</dd>
 <dt>Pickup instructions</dt>
-<dd>Full-stack system with geohash-based location mapping, real-time FCM delivery and multi-modal (text + audio) instructions on S3. Handles 30 to 50K instructions a day at sub-2 s latency and cut pickup cancellations by 5 to 8% across 200K daily rides.</dd>
+<dd>Full-stack system with geohash-based location mapping, real-time FCM delivery and multi-modal (text + audio) instructions on S3. Handles 30 to 50K instructions a day at sub-2 s latency and <strong>cut pickup cancellations by 5 to 8%</strong> across 200K daily rides.</dd>
 <dt>Driver engagement platform</dt>
-<dd>Gamification and subscription monetisation with real-time balance updates and atomic concurrency control: 200K+ daily transactions and 5% lower churn. Fed by a multi-stream click-attribution pipeline, later extended into event logging and behaviour analytics for 40K+ events.</dd>
+<dd>Gamification and subscription monetisation with real-time balance updates and atomic concurrency control: <strong>200K+ daily transactions</strong> and <strong>5% lower churn</strong>. Fed by a multi-stream click-attribution pipeline, later extended into event logging and behaviour analytics for 40K+ events.</dd>
 <dt>Custom ESLint plugin</dt>
-<dd>Enforced functional-programming patterns across 60K+ lines of code. Adopted by 15+ developers on 3 teams, improving type safety by 87% and cutting code review time by 40%.</dd>
+<dd>Enforced functional-programming patterns across 60K+ lines of code. Adopted by 15+ developers on 3 teams, improving type safety by <strong>87%</strong> and cutting <strong>code review time by 40%</strong>.</dd>
 <dt>Real-time safety</dt>
-<dd>Night-ride monitoring for 60K+ rides a day with route-deviation detection, automated IVR verification and multi-level escalation under 30 s, reducing safety concerns by 22%.</dd>
+<dd>Night-ride monitoring for 60K+ rides a day with route-deviation detection, automated IVR verification and multi-level escalation under 30 s, <strong>reducing safety concerns by 22%</strong>.</dd>
 </dl>
+
+</details>
 
 ### Stack
 
