@@ -1,6 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="t">
-  <title id="t">Aman Dwivedi — Full-Stack Engineer · AI systems</title>
-  <text x="8" y="112" fill="#e6edf3" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="80" letter-spacing="-1">Aman Dwivedi</text>
-  <line x1="10" y1="146" x2="74" y2="146" stroke="#e6edf3" stroke-width="1.5"/>
-  <text x="10" y="186" fill="#9198a1" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" letter-spacing="4.5">FULL-STACK ENGINEER · AI SYSTEMS</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="228" viewBox="0 0 880 228" role="img" aria-labelledby="t">
+  <title id="t">Aman Dwivedi · Full-Stack Engineer · AI systems</title>
+  <style>
+    .serif { font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif; }
+    .sans { font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+    .ink { fill: #e6edf3; } .muted { fill: #9198a1; } .rule { stroke: #e6edf3; }
+    .in { animation: in 0.9s ease-out both; } .d1 { animation-delay: 0.15s; } .d2 { animation-delay: 0.3s; }
+    @keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .in { animation: none; } }
+  </style>
+  <g class="in">
+    <text class="sans muted" x="0" y="20" font-size="11" letter-spacing="3">FULL-STACK ENGINEER · AI SYSTEMS</text>
+    <text class="sans muted" x="880" y="20" font-size="11" letter-spacing="3" text-anchor="end">DP WORLD · INDIA</text>
+    <line class="rule" x1="0" y1="34" x2="880" y2="34" stroke-width="1"/>
+  </g>
+  <text class="serif ink in d1" x="-4" y="128" font-size="84" letter-spacing="-1.5">Aman Dwivedi</text>
+  <text class="serif muted in d2" x="0" y="176" font-size="22" font-style="italic">Platforms, from the database to the model.</text>
+  <g class="in d2">
+    <line class="rule" x1="0" y1="206" x2="880" y2="206" stroke-width="1"/>
+    <line class="rule" x1="0" y1="210" x2="880" y2="210" stroke-width="0.5"/>
+  </g>
 </svg>

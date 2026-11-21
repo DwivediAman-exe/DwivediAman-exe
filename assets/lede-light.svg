@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="178" viewBox="0 0 880 178" role="img" aria-labelledby="t">
+  <title id="t">I design and build complete systems: the data beneath, the services between, the interface on top, and the AI that ties them together. Currently building a port-operations platform at DP World.</title>
+  <style>
+    .serif { font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif; }
+    .sans { font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+    .ink { fill: #1f2328; } .muted { fill: #59636e; }
+    .lede { font-size: 28px; }
+    .in { animation: in 0.9s ease-out both; } .d1 { animation-delay: 0.15s; }
+    @keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .in { animation: none; } }
+  </style>
+  <g class="in">
+    <text class="serif ink lede" x="0" y="40">I design and build complete systems: the data beneath,</text>
+    <text class="serif ink lede" x="0" y="80">the services between, the interface on top, and <tspan font-style="italic">the AI</tspan></text>
+    <text class="serif ink lede" x="0" y="120"><tspan font-style="italic">that ties them together.</tspan></text>
+  </g>
+  <text class="sans muted in d1" x="1" y="164" font-size="11" letter-spacing="3">CURRENTLY · PORT-OPERATIONS PLATFORM · DP WORLD</text>
+</svg>

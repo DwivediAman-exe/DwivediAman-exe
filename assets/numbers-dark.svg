@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="148" viewBox="0 0 880 148" role="img" aria-labelledby="t">
+  <title id="t">2M jobs a day with zero lost · 70% lower job-scheduler latency · 1 s page loads, down from 15 s · 85% smaller API responses</title>
+  <style>
+    .serif { font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif; }
+    .sans { font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+    .ink { fill: #e6edf3; } .muted { fill: #9198a1; } .rule { stroke: #3d444d; }
+    .num { font-size: 48px; font-weight: 300; letter-spacing: -1px; }
+    .cap { font-size: 10.5px; letter-spacing: 2px; }
+    .proof { font-size: 13px; }
+    .in { animation: in 0.9s ease-out both; } .d1 { animation-delay: 0.12s; } .d2 { animation-delay: 0.24s; } .d3 { animation-delay: 0.36s; }
+    @keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .in { animation: none; } }
+  </style>
+  <line class="rule" x1="0" y1="0.5" x2="880" y2="0.5" stroke-width="1"/>
+  <line class="rule" x1="0" y1="147.5" x2="880" y2="147.5" stroke-width="1"/>
+  <line class="rule" x1="220" y1="24" x2="220" y2="124" stroke-width="1"/>
+  <line class="rule" x1="440" y1="24" x2="440" y2="124" stroke-width="1"/>
+  <line class="rule" x1="660" y1="24" x2="660" y2="124" stroke-width="1"/>
+  <g class="in">
+    <text class="sans ink num" x="0" y="70">2M</text>
+    <text class="sans muted cap" x="2" y="96">JOBS A DAY</text>
+    <text class="sans muted proof" x="2" y="120">zero lost</text>
+  </g>
+  <g class="in d1">
+    <text class="sans ink num" x="244" y="70">70%</text>
+    <text class="sans muted cap" x="246" y="96">LOWER LATENCY</text>
+    <text class="sans muted proof" x="246" y="120">job scheduler</text>
+  </g>
+  <g class="in d2">
+    <text class="sans ink num" x="464" y="70">1 s</text>
+    <text class="sans muted cap" x="466" y="96">PAGE LOAD</text>
+    <text class="sans muted proof" x="466" y="120">down from 15 s</text>
+  </g>
+  <g class="in d3">
+    <text class="sans ink num" x="684" y="70">85%</text>
+    <text class="sans muted cap" x="686" y="96">SMALLER PAYLOADS</text>
+    <text class="sans muted proof" x="686" y="120">API responses</text>
+  </g>
+</svg>
